@@ -1,0 +1,20 @@
+.ItmeFirstCon {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 13px;
+  padding-right: 13px;
+  align-items: center;
+}
+.listCON {
+  width: 30%;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  margin: 13px;
+}
+.paraa {
+  margin: 0px;
+  margin-left: 13px;
+  margin-bottom: 3px;
+  color: #b5b7c4;
+}

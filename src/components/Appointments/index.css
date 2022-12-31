@@ -1,0 +1,63 @@
+.mainCon {
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.AppointmentCon {
+  width: 90%;
+  background-color: white;
+  border-radius: 13px;
+  padding: 13px;
+  display: flex;
+  flex-direction: column;
+}
+.appointmentwoCon {
+  display: flex;
+}
+.leftCon {
+  width: 50%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.rightCon {
+  width: 50%;
+}
+.formCon {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  height: 40vh;
+}
+.hrline {
+  width: 100%;
+  border-width: 3px;
+}
+.lowerFirstCon {
+  display: flex;
+  margin-left: 33px;
+  margin-right: 33px;
+  justify-content: space-between;
+  align-items: center;
+}
+.btnn {
+  background-color: white;
+  border-radius: 13px;
+  width: 105px;
+  height: 33px;
+}
+.lowerSecondCon {
+  display: flex;
+
+  align-items: flex-start;
+  list-style-type: none;
+  width: 100%;
+  flex-wrap: wrap;
+}
